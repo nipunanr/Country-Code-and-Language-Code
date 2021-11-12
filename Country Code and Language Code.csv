@@ -1,0 +1,245 @@
+Country,CountryCode,Language,LanguageCode
+Afghanistan,AF,Persian,fa
+Åland Islands,AX,Swedish,sv
+Albania,AL,Albanian,sq
+Algeria,DZ,Arabic,ar
+American Samoa,AS,English,en
+Andorra,AD,Catalan,ca
+Angola,AO,Portuguese,pt
+Anguilla,AI,English,en
+Antigua & Barbuda,AG,English,en
+Argentina,AR,Spanish,es
+Armenia,AM,Armenian,hy
+Aruba,AW,Spanish,es
+Australia,AU,English,en
+Austria,AT,German,de
+Azerbaijan,AZ,Azerbaijani,az
+Bahamas,BS,English,en
+Bahrain,BH,Arabic,ar
+Bangladesh,BD,Bangla,bn
+Barbados,BB,English,en
+Belarus,BY,Russian,ru
+Belgium,BE,Dutch,nl
+Belize,BZ,English,en
+Benin,BJ,French,fr
+Bermuda,BM,English,en
+Bhutan,BT,Dzongkha,dz
+Bolivia,BO,Spanish,es
+Bosnia & Herzegovina,BA,Bosnian,bs
+Botswana,BW,Tswana,tn
+Brazil,BR,Portuguese,pt
+British Indian Ocean Territory,IO,English,en
+British Virgin Islands,VG,English,en
+Brunei,BN,Malay,ms
+Bulgaria,BG,Bulgarian,bg
+Burkina Faso,BF,French,fr
+Burundi,BI,English,en
+Cambodia,KH,Khmer,km
+Cameroon,CM,English,en
+Canada,CA,English,en
+Canary Islands,IC,Spanish,es
+Cape Verde,CV,English,en
+Caribbean Netherlands,BQ,Dutch,nl
+Cayman Islands,KY,English,en
+Central African Republic,CF,French,fr
+Ceuta & Melilla,EA,Spanish,es
+Chad,TD,French,fr
+Chile,CL,Spanish,es
+China mainland,CN,Chinese,zh
+Christmas Island,CX,English,en
+Cocos (Keeling) Islands,CC,English,en
+Colombia,CO,Spanish,es
+Comoros,KM,French,fr
+Congo - Brazzaville,CG,French,fr
+Congo - Kinshasa,CD,French,fr
+Cook Islands,CK,English,en
+Costa Rica,CR,Spanish,es
+Côte d’Ivoire,CI,French,fr
+Croatia,HR,Croatian,hr
+Cuba,CU,Spanish,es
+Curaçao,CW,Dutch,nl
+Cyprus,CY,Greek,el
+Czechia,CZ,Greek,el
+Denmark,DK,Danish,da
+Djibouti,DJ,French,fr
+Dominica,DM,English,en
+Dominican Republic,DO,Spanish,es
+Ecuador,EC,Spanish,es
+Egypt,EG,Arabic,ar
+El Salvador,SV,Spanish,es
+Equatorial Guinea,GQ,Spanish,es
+Eritrea,ER,Tigrinya,ti
+Estonia,EE,Estonian,et
+Eswatini,SZ,English,en
+Ethiopia,ET,Oromo,om
+Falkland Islands,FK,English,en
+Fiji,FJ,English,en
+Finland,FI,Finnish,fi
+France,FR,French,fr
+French Guiana,GF,French,fr
+French Polynesia,PF,French,fr
+Gabon,GA,French,fr
+Gambia,GM,English,en
+Georgia,GE,Georgian,ka
+Germany,DE,German,de
+Ghana,GH,English,en
+Gibraltar,GI,English,en
+Greece,GR,Greek,el
+Greenland,GL,Danish,da
+Grenada,GD,English,en
+Guadeloupe,GP,French,fr
+Guam,GU,English,en
+Guatemala,GT,Spanish,es
+Guernsey,GG,English,en
+Guinea-Bissau,GW,Portuguese,pt
+Guinea,GN,French,fr
+Guyana,GY,English,en
+Haiti,HT,French,fr
+Honduras,HN,Spanish,es
+Hong Kong,HK,Chinese,zh
+Hungary,HU,Hungarian,hu
+Iceland,IS,Icelandic,is
+India,IN,Hindi,hi
+Indonesia,ID,Indonesian,id
+Iraq,IQ,Arabic,ar
+Ireland,IE,English,en
+Isle of Man,IM,English,en
+Israel,IL,Hebrew,he
+Italy,IT,Italian,it
+Jamaica,JM,English,en
+Japan,JP,Japanese,ja
+Jersey,JE,English,en
+Jordan,JO,Arabic,ar
+Kazakhstan,KZ,Kazakh,kk
+Kenya,KE,English,en
+Kiribati,KI,English,en
+Kosovo,XK,Albanian,sq
+Kuwait,KW,Arabic,ar
+Kyrgyzstan,KG,Kyrgyz,ky
+Laos,LA,Lao,lo
+Latvia,LV,Latvian,lv
+Lebanon,LB,Arabic,ar
+Lesotho,LS,English,en
+Liberia,LR,English,en
+Libya,LY,Arabic,ar
+Liechtenstein,LI,German,de
+Lithuania,LT,Lithuanian,lt
+Luxembourg,LU,Luxembourgish,lb
+Macao,MO,English,en
+Madagascar,MG,French,fr
+Malawi,MW,English,en
+Malaysia,MY,English,en
+Maldives,MV,Dhivehi,dv
+Mali,ML,French,fr
+Malta,MT,Maltese,mt
+Marshall Islands,MH,English,en
+Martinique,MQ,French,fr
+Mauritania,MR,Arabic,ar
+Mauritius,MU,English,en
+Mayotte,YT,French,fr
+Mexico,MX,Spanish,es
+Micronesia,FM,English,en
+Moldova,MD,Romanian,ro
+Monaco,MC,French,fr
+Mongolia,MN,Mongolian,mn
+Montenegro,ME,Serbian,sr
+Montserrat,MS,English,en
+Morocco,MA,Arabic,ar
+Mozambique,MZ,English,en
+Myanmar (Burma),MM,Burmese,my
+Namibia,NA,English,en
+Nauru,NR,English,en
+Nepal,NP,Nepali,ne
+Netherlands,NL,Dutch,nl
+New Caledonia,NC,French,fr
+New Zealand,NZ,English,en
+Nicaragua,NI,Spanish,es
+Nigeria,NG,English,en
+Niue,NU,English,en
+Norfolk Island,NF,English,en
+North Korea,KP,Korean,ko
+North Macedonia,MK,Macedonian,mk
+Northern Mariana Islands,MP,English,en
+Norway,NO,Norwegian Bokmål,nb
+Oman,OM,Arabic,ar
+Pakistan,PK,Punjabi,pa
+Palau,PW,English,en
+Palestinian Territories,PS,Arabic,ar
+Panama,PA,Spanish,es
+Papua New Guinea,PG,English,en
+Paraguay,PY,Spanish,es
+Peru,PE,Spanish,es
+Philippines,PH,Filipino,fil
+Pitcairn Islands,PN,English,en
+Poland,PL,Polish,pl
+Portugal,PT,Portuguese,pt
+Puerto Rico,PR,English,en
+Qatar,QA,Arabic,ar
+Réunion,RE,French,fr
+Romania,RO,Romanian,ro
+Russia,RU,Russian,ru
+Rwanda,RW,Kinyarwanda,rw
+Samoa,WS,English,en
+San Marino,SM,Italian,it
+São Tomé & Príncipe,ST,Portuguese,pt
+Saudi Arabia,SA,Arabic,ar
+Senegal,SN,French,fr
+Serbia,RS,Serbian,sr
+Seychelles,SC,English,en
+Sierra Leone,SL,English,en
+Singapore,SG,English,en
+Sint Maarten,SX,English,en
+Slovakia,SK,Slovak,sk
+Slovenia,SI,Slovenian,sl
+Solomon Islands,SB,English,en
+Somalia,SO,Somali,so
+South Africa,ZA,English,en
+South Korea,KR,Korean,ko
+South Sudan,SS,English,en
+Spain,ES,Spanish,es
+Sri Lanka,LK,Sinhala,si
+St. Barthélemy,BL,French,fr
+St. Helena,SH,English,en
+St. Kitts & Nevis,KN,English,en
+St. Lucia,LC,English,en
+St. Martin,MF,French,fr
+St. Pierre & Miquelon,PM,French,fr
+St. Vincent & Grenadines,VC,English,en
+Sudan,SD,Arabic,ar
+Suriname,SR,Dutch,nl
+Svalbard & Jan Mayen,SJ,Norwegian Bokmål,nb
+Sweden,SE,Swedish,sv
+Switzerland,CH,German,de
+Syria,SY,Arabic,ar
+Taiwan,TW,Chinese,zh
+Tajikistan,TJ,Tajik,tg
+Tanzania,TZ,Swahili,sw
+Thailand,TH,Thai,th
+Timor-Leste,TL,Portuguese,pt
+Togo,TG,French,fr
+Tokelau,TK,English,en
+Tonga,TO,English,en
+Trinidad & Tobago,TT,English,en
+Tunisia,TN,Arabic,ar
+Turkey,TR,Turkish,tr
+Turkmenistan,TM,Turkmen,tk
+Turks & Caicos Islands,TC,English,en
+Tuvalu,TV,English,en
+U.S. Outlying Islands,UM,English,en
+U.S. Virgin Islands,VI,English,en
+Uganda,UG,English,en
+Ukraine,UA,Ukrainian,uk
+United Arab Emirates,AE,Arabic,ar
+United Kingdom,GB,English,en
+United States,US,English,en
+Uruguay,UY,Spanish,es
+Uzbekistan,UZ,Uzbek,uz
+Vanuatu,VU,English,en
+Vatican City,VA,Italian,it
+Venezuela,VE,Spanish,es
+Vietnam,VN,Vietnamese,vi
+Wallis & Futuna,WF,French,fr
+Western Sahara,EH,Arabic,ar
+Yemen,YE,Arabic,ar
+Zambia,ZM,Bemba,bem
+Zimbabwe,ZW,Shona,sn
